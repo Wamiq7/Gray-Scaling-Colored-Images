@@ -1,0 +1,3 @@
+# Convert a Color image to grayscale using openmp and mpi 
+
+Method to run the code is written at the start in the code files.
